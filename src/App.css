@@ -28,6 +28,31 @@
   color: #61dafb;
 }
 
+.Submit-btn {
+  border: 2px solid #282c34;
+  border-radius: 50px;
+  width: 100%;
+  padding: 2%;
+  font-weight: bold;
+  color: white;
+  background-color: green;
+}
+
+.Label {
+  margin-right: 10%;
+}
+
+.InpuLabel,.TextareaLabel {
+  width: 100%;
+  font-weight: bold;
+}
+
+.DivField {
+  text-align: left;
+  align-items: left;
+  justify-content: left;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
